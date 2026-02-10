@@ -42,7 +42,3 @@ La aplicación permite:
 Puedes probar la aplicación en el siguiente enlace:
 
 🔗 https://tarea-test-5.onrender.com/
-
-
-📧 gonzalezcastrojoseguadalupe9@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/jose-guadalupe-gonzalez-castro-data-analyst/
